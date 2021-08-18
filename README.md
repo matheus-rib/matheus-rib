@@ -8,7 +8,7 @@ I'm Matheus Ribeiro, but you can call me Matt. I'm a full-time fullstack web dev
 <div>
   <a href="https://github.com/matheus-rib">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-rib&theme=tokyonight&text_color=FFFFFF&show_icons=true&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-rib&layout=compact&langs_count=4&theme=tokyonight&text_color=FFFFFF"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-rib&layout=compact&langs_count=6&theme=tokyonight&text_color=FFFFFF"/>
   </a>
 </div>
   
