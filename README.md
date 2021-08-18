@@ -1,10 +1,10 @@
-### Welcome!
+### ✨ Welcome!
 
 I'm Matheus Ribeiro, but you can call me Matt. I'm a full-time fullstack web developer. I've been working in many projects, from e-commerce to social projects, using different technologies for each case. I also play guitar, write stories and adventure myself in game develop.
 
 ##
   
-### Overview
+### 📈 Overview
 <div dstyle="display: inline_block">
   <a href="https://github.com/matheus-rib">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-rib&theme=tokyonight&text_color=FFFFFF&show_icons=true&include_all_commits=true&count_private=true"/>
@@ -31,7 +31,7 @@ I'm Matheus Ribeiro, but you can call me Matt. I'm a full-time fullstack web dev
 
 ##
 
-### Contacts:
+### ✉️ Contacts
 <a href="https://www.linkedin.com/in/matheus-ribeiro-8b9b7615b/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a> 
