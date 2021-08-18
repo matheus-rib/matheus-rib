@@ -5,14 +5,14 @@ I'm Matheus Ribeiro, but you can call me Matt. I'm a full-time fullstack web dev
 ##
   
 ### 📈 Overview
-<div dstyle="display: inline_block">
+<div>
   <a href="https://github.com/matheus-rib">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-rib&theme=tokyonight&text_color=FFFFFF&show_icons=true&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-rib&layout=compact&langs_count=4&theme=tokyonight&text_color=FFFFFF"/>
   </a>
 </div>
   
-<div style="display: inline_block">
+<div>
   <br/>
   <img align="center" title="NodeJS" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"/>
   <img align="center" title="JS" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
@@ -38,3 +38,4 @@ I'm Matheus Ribeiro, but you can call me Matt. I'm a full-time fullstack web dev
 <a href="mailto:matt.ribeirodev@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+<img align="right" height="180em" src="https://cdn.discordapp.com/attachments/877627734371729418/877627799492505600/AvatarMaker.png"/>
